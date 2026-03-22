@@ -1,0 +1,172 @@
+{
+  "id": "mumbai",
+  "name": "Mumbai",
+  "description": "The City of Dreams, a melting pot of cultures, and India's financial hub.",
+  "coordinates": [19.0760, 72.8777],
+  "places": [
+    { "id": "m1", "name": "Gateway of India", "coords": [18.9220, 72.8347], "category": "heritage", "description": "Iconic colonial-era arch monument.", "rating": 4.7 },
+    { "id": "m2", "name": "Marine Drive", "coords": [18.9431, 72.8231], "category": "scenic", "description": "Famous promenade known as Queen’s Necklace.", "rating": 4.8 },
+    { "id": "m3", "name": "Juhu Beach", "coords": [19.0988, 72.8267], "category": "beach", "description": "Popular beach with street food and sunsets.", "rating": 4.5 },
+    { "id": "m4", "name": "Bandra Bandstand", "coords": [19.0466, 72.8194], "category": "scenic", "description": "Seaside promenade near Bandra Fort.", "rating": 4.6 },
+    { "id": "m5", "name": "Siddhivinayak Temple", "coords": [19.0173, 72.8302], "category": "religious", "description": "Famous Ganesh temple attracting devotees.", "rating": 4.9 },
+
+    { "id": "m6", "name": "Haji Ali Dargah", "coords": [18.9827, 72.8089], "category": "religious", "description": "Mosque located on an islet in the sea.", "rating": 4.8 },
+    { "id": "m7", "name": "Elephanta Caves", "coords": [18.9633, 72.9310], "category": "heritage", "description": "UNESCO-listed rock-cut cave temples.", "rating": 4.7 },
+    { "id": "m8", "name": "Colaba Causeway", "coords": [18.9217, 72.8313], "category": "shopping", "description": "Street shopping hub for tourists.", "rating": 4.4 },
+    { "id": "m9", "name": "Chhatrapati Shivaji Maharaj Terminus", "coords": [18.9402, 72.8356], "category": "heritage", "description": "Historic railway station and UNESCO site.", "rating": 4.8 },
+    { "id": "m10", "name": "Sanjay Gandhi National Park", "coords": [19.2147, 72.9106], "category": "nature", "description": "Urban national park with wildlife and caves.", "rating": 4.6 },
+
+    { "id": "m11", "name": "Powai Lake", "coords": [19.1197, 72.9050], "category": "nature", "description": "Scenic lake surrounded by modern skyline.", "rating": 4.5 },
+    { "id": "m12", "name": "Versova Beach", "coords": [19.1315, 72.8141], "category": "beach", "description": "Cleaner alternative to Juhu beach.", "rating": 4.3 },
+    { "id": "m13", "name": "Aksa Beach", "coords": [19.1759, 72.7951], "category": "beach", "description": "Quiet beach away from city chaos.", "rating": 4.4 },
+    { "id": "m14", "name": "Global Vipassana Pagoda", "coords": [19.2285, 72.8050], "category": "spiritual", "description": "Massive meditation dome structure.", "rating": 4.7 },
+    { "id": "m15", "name": "Film City Goregaon", "coords": [19.1550, 72.8830], "category": "entertainment", "description": "Bollywood shooting location hub.", "rating": 4.5 },
+
+    { "id": "m16", "name": "Nehru Science Centre", "coords": [18.9902, 72.8160], "category": "museum", "description": "Interactive science exhibits and shows.", "rating": 4.6 },
+    { "id": "m17", "name": "Worli Sea Face", "coords": [19.0007, 72.8156], "category": "scenic", "description": "Popular evening hangout spot.", "rating": 4.7 },
+    { "id": "m18", "name": "Phoenix Marketcity Kurla", "coords": [19.0860, 72.8897], "category": "shopping", "description": "Large mall with brands and dining.", "rating": 4.6 },
+    { "id": "m19", "name": "R City Mall", "coords": [19.1075, 72.9080], "category": "shopping", "description": "Popular mall in Ghatkopar.", "rating": 4.5 },
+    { "id": "m20", "name": "Inorbit Mall Malad", "coords": [19.1726, 72.8355], "category": "shopping", "description": "Shopping and multiplex destination.", "rating": 4.4 },
+
+    { "id": "m21", "name": "Chowpatty Beach", "coords": [18.9543, 72.8126], "category": "beach", "description": "Famous for street food stalls.", "rating": 4.5 },
+    { "id": "m22", "name": "Taraporewala Aquarium", "coords": [18.9500, 72.8200], "category": "family", "description": "India’s oldest aquarium.", "rating": 4.2 },
+    { "id": "m23", "name": "Bandra Fort", "coords": [19.0432, 72.8179], "category": "heritage", "description": "Historic fort overlooking sea link.", "rating": 4.6 },
+    { "id": "m24", "name": "Mount Mary Church", "coords": [19.0470, 72.8210], "category": "religious", "description": "Famous basilica in Bandra.", "rating": 4.7 },
+    { "id": "m25", "name": "Carter Road", "coords": [19.0675, 72.8225], "category": "scenic", "description": "Promenade with cafes and jogging track.", "rating": 4.6 },
+
+    { "id": "m26", "name": "Mahakali Caves", "coords": [19.1205, 72.8730], "category": "heritage", "description": "Ancient Buddhist caves.", "rating": 4.3 },
+    { "id": "m27", "name": "Jogeshwari Caves", "coords": [19.1340, 72.8479], "category": "heritage", "description": "Oldest cave temples in Mumbai.", "rating": 4.2 },
+    { "id": "m28", "name": "ISKCON Temple Juhu", "coords": [19.1136, 72.8261], "category": "religious", "description": "Krishna temple with spiritual ambiance.", "rating": 4.8 },
+    { "id": "m29", "name": "EsselWorld", "coords": [19.2288, 72.8051], "category": "entertainment", "description": "Amusement park for families.", "rating": 4.3 },
+    { "id": "m30", "name": "Water Kingdom", "coords": [19.2310, 72.8040], "category": "entertainment", "description": "Popular water park.", "rating": 4.4 },
+
+  
+  { "id": "m31", "name": "Lohagad Fort (near Mumbai route)", "coords": [18.7100, 73.4800], "category": "adventure", "description": "Popular trekking fort near Lonavala often included in Mumbai trips.", "rating": 4.7 },
+  { "id": "m32", "name": "Madh Island", "coords": [19.1350, 72.7890], "category": "beach", "description": "Quiet coastal village with serene beaches.", "rating": 4.3 },
+  { "id": "m33", "name": "Marve Beach", "coords": [19.2000, 72.7900], "category": "beach", "description": "Peaceful beach known for ferry rides.", "rating": 4.2 },
+  { "id": "m34", "name": "Versova Jetty", "coords": [19.1300, 72.8100], "category": "scenic", "description": "Fishing dock with vibrant local life.", "rating": 4.1 },
+  { "id": "m35", "name": "Lokhandwala Market", "coords": [19.1305, 72.8290], "category": "shopping", "description": "Trendy shopping street in Andheri.", "rating": 4.4 },
+
+  { "id": "m36", "name": "Andheri Sports Complex", "coords": [19.1190, 72.8460], "category": "sports", "description": "Multi-purpose sports facility.", "rating": 4.3 },
+  { "id": "m37", "name": "Mahim Fort", "coords": [19.0420, 72.8390], "category": "heritage", "description": "Historic Portuguese fort ruins.", "rating": 4.0 },
+  { "id": "m38", "name": "Mahim Causeway", "coords": [19.0400, 72.8400], "category": "scenic", "description": "Important road link with coastal views.", "rating": 4.2 },
+  { "id": "m39", "name": "Dadar Flower Market", "coords": [19.0180, 72.8430], "category": "market", "description": "Colorful early morning flower market.", "rating": 4.6 },
+  { "id": "m40", "name": "Shivaji Park", "coords": [19.0280, 72.8410], "category": "park", "description": "Large ground known for cricket culture.", "rating": 4.7 },
+
+  { "id": "m41", "name": "Five Gardens Matunga", "coords": [19.0260, 72.8570], "category": "park", "description": "Cluster of gardens ideal for walks.", "rating": 4.5 },
+  { "id": "m42", "name": "Matunga Food Walk", "coords": [19.0275, 72.8550], "category": "food", "description": "Famous for South Indian eateries.", "rating": 4.8 },
+  { "id": "m43", "name": "Wadala IMAX Dome", "coords": [19.0165, 72.8630], "category": "entertainment", "description": "Iconic dome theatre experience.", "rating": 4.4 },
+  { "id": "m44", "name": "Antilia View Point (street view)", "coords": [18.9670, 72.8090], "category": "landmark", "description": "View of India’s most expensive residence.", "rating": 4.2 },
+  { "id": "m45", "name": "Girgaon Chowpatty", "coords": [18.9540, 72.8120], "category": "beach", "description": "Famous for street food and festivals.", "rating": 4.6 },
+
+  { "id": "m46", "name": "Bombay High Court", "coords": [18.9295, 72.8325], "category": "heritage", "description": "Gothic-style historic court building.", "rating": 4.5 },
+  { "id": "m47", "name": "Rajabai Clock Tower", "coords": [18.9290, 72.8310], "category": "heritage", "description": "Victorian-era clock tower at Fort.", "rating": 4.6 },
+  { "id": "m48", "name": "Mumbai University Fort Campus", "coords": [18.9292, 72.8312], "category": "heritage", "description": "Colonial-era university campus.", "rating": 4.6 },
+  { "id": "m49", "name": "Oval Maidan", "coords": [18.9298, 72.8285], "category": "park", "description": "Open ground with skyline views.", "rating": 4.7 },
+  { "id": "m50", "name": "Churchgate Station Area", "coords": [18.9322, 72.8264], "category": "transit", "description": "Busy commercial and railway hub.", "rating": 4.4 },
+
+  { "id": "m51", "name": "Nariman Point Sea Walk", "coords": [18.9250, 72.8240], "category": "scenic", "description": "Popular sunset and business district walk.", "rating": 4.7 },
+  { "id": "m52", "name": "Backbay Reclamation", "coords": [18.9230, 72.8200], "category": "scenic", "description": "Coastal stretch with skyline views.", "rating": 4.5 },
+  { "id": "m53", "name": "INS Vikrant Memorial", "coords": [18.9210, 72.8300], "category": "memorial", "description": "Naval heritage landmark.", "rating": 4.3 },
+  { "id": "m54", "name": "Colaba Woods Garden", "coords": [18.9060, 72.8140], "category": "park", "description": "Small quiet garden in Colaba.", "rating": 4.2 },
+  { "id": "m55", "name": "Afghan Church", "coords": [18.9065, 72.8150], "category": "heritage", "description": "Historic Anglican church.", "rating": 4.5 },
+
+  { "id": "m56", "name": "Sassoon Dock", "coords": [18.9070, 72.8155], "category": "market", "description": "Oldest fish market in Mumbai.", "rating": 4.3 },
+  { "id": "m57", "name": "NCPA Nariman Point", "coords": [18.9255, 72.8235], "category": "culture", "description": "National Centre for Performing Arts.", "rating": 4.8 },
+  { "id": "m58", "name": "Taj Lands End Viewpoint", "coords": [19.0430, 72.8190], "category": "luxury", "description": "Premium sea-facing hotel viewpoint.", "rating": 4.7 },
+  { "id": "m59", "name": "Hill Road Bandra", "coords": [19.0540, 72.8300], "category": "shopping", "description": "Popular street shopping destination.", "rating": 4.5 },
+  { "id": "m60", "name": "Linking Road Bandra", "coords": [19.0650, 72.8330], "category": "shopping", "description": "Famous for fashion street shopping.", "rating": 4.6 },
+
+
+
+
+    { "id": "m91", "name": "Lower Parel High Street", "coords": [18.9980, 72.8258], "category": "shopping", "description": "Trendy shopping and nightlife zone.", "rating": 4.6 },
+    { "id": "m92", "name": "Kamala Nehru Park", "coords": [18.9568, 72.8052], "category": "park", "description": "Park with panoramic views.", "rating": 4.5 },
+    { "id": "m93", "name": "Hanging Gardens", "coords": [18.9565, 72.8050], "category": "park", "description": "Terraced gardens on Malabar Hill.", "rating": 4.6 },
+    { "id": "m94", "name": "Flora Fountain", "coords": [18.9320, 72.8330], "category": "heritage", "description": "Historic landmark in South Mumbai.", "rating": 4.4 },
+    { "id": "m95", "name": "Horniman Circle", "coords": [18.9315, 72.8345], "category": "heritage", "description": "Garden surrounded by colonial buildings.", "rating": 4.5 },
+
+    { "id": "m96", "name": "Ballard Estate", "coords": [18.9400, 72.8400], "category": "heritage", "description": "European-style business district.", "rating": 4.6 },
+    { "id": "m97", "name": "Nariman Point", "coords": [18.9256, 72.8245], "category": "scenic", "description": "Business hub with sea views.", "rating": 4.7 },
+    { "id": "m98", "name": "Kala Ghoda Art District", "coords": [18.9298, 72.8325], "category": "culture", "description": "Art galleries and cultural spaces.", "rating": 4.8 },
+    { "id": "m99", "name": "Jehangir Art Gallery", "coords": [18.9278, 72.8315], "category": "culture", "description": "Famous art exhibition space.", "rating": 4.6 },
+    { "id": "m100", "name": "Prince of Wales Museum", "coords": [18.9260, 72.8320], "category": "museum", "description": "Major museum of art and history.", "rating": 4.7 },
+
+    
+  { "id": "m101", "name": "Dharavi Leather Market", "coords": [19.0440, 72.8550], "category": "market", "description": "Famous for handmade leather goods and local craftsmanship.", "rating": 4.3 },
+  { "id": "m102", "name": "Sion Fort", "coords": [19.0470, 72.8620], "category": "heritage", "description": "Hilltop fort offering city views.", "rating": 4.2 },
+  { "id": "m103", "name": "Sion Lake", "coords": [19.0435, 72.8655], "category": "nature", "description": "Small lake surrounded by greenery.", "rating": 4.1 },
+  { "id": "m104", "name": "Kurla Nehru Nagar Ground", "coords": [19.0675, 72.8785], "category": "park", "description": "Local ground used for sports and events.", "rating": 4.0 },
+  { "id": "m105", "name": "Phoenix Palladium Mall", "coords": [18.9940, 72.8258], "category": "shopping", "description": "Luxury mall with premium brands.", "rating": 4.7 },
+
+  { "id": "m106", "name": "High Street Phoenix", "coords": [18.9945, 72.8255], "category": "shopping", "description": "Popular shopping and entertainment hub.", "rating": 4.6 },
+  { "id": "m107", "name": "Nehru Planetarium", "coords": [18.9885, 72.8130], "category": "education", "description": "Astronomy shows and science exhibits.", "rating": 4.5 },
+  { "id": "m108", "name": "Worli Fort", "coords": [19.0010, 72.8145], "category": "heritage", "description": "Historic fort with sea views.", "rating": 4.3 },
+  { "id": "m109", "name": "Haji Ali Juice Centre", "coords": [18.9825, 72.8095], "category": "food", "description": "Iconic spot for fresh juices and shakes.", "rating": 4.6 },
+  { "id": "m110", "name": "Breach Candy Club Area", "coords": [18.9720, 72.8070], "category": "luxury", "description": "Upscale residential and leisure zone.", "rating": 4.5 },
+
+  { "id": "m111", "name": "Priyadarshini Park", "coords": [18.9570, 72.8015], "category": "park", "description": "Jogging track with sea-facing lawns.", "rating": 4.6 },
+  { "id": "m112", "name": "Malabar Hill", "coords": [18.9545, 72.8050], "category": "scenic", "description": "Elite residential area with viewpoints.", "rating": 4.7 },
+  { "id": "m113", "name": "Banganga Tank", "coords": [18.9540, 72.8040], "category": "heritage", "description": "Ancient water tank with temples.", "rating": 4.6 },
+  { "id": "m114", "name": "Walkeshwar Temple", "coords": [18.9542, 72.8038], "category": "religious", "description": "Historic Hindu temple near Banganga.", "rating": 4.7 },
+  { "id": "m115", "name": "Cumballa Hill Hospital Area", "coords": [18.9685, 72.8085], "category": "landmark", "description": "Known for colonial-era structures.", "rating": 4.2 },
+
+  { "id": "m116", "name": "Mahalaxmi Temple", "coords": [18.9775, 72.8080], "category": "religious", "description": "Famous temple dedicated to Goddess Mahalaxmi.", "rating": 4.8 },
+  { "id": "m117", "name": "Mahalaxmi Racecourse", "coords": [18.9800, 72.8200], "category": "sports", "description": "Horse racing track and open grounds.", "rating": 4.6 },
+  { "id": "m118", "name": "Jacob Circle Flyover View", "coords": [18.9850, 72.8300], "category": "scenic", "description": "Busy junction with cityscape views.", "rating": 4.1 },
+  { "id": "m119", "name": "Byculla Zoo (Veermata Jijabai Park)", "coords": [18.9765, 72.8335], "category": "family", "description": "Zoo and botanical garden.", "rating": 4.4 },
+  { "id": "m120", "name": "Dr Bhau Daji Lad Museum", "coords": [18.9768, 72.8340], "category": "museum", "description": "Oldest museum in Mumbai.", "rating": 4.6 },
+
+  { "id": "m121", "name": "Mazgaon Dock Area", "coords": [18.9670, 72.8450], "category": "industrial", "description": "Historic shipbuilding yard.", "rating": 4.1 },
+  { "id": "m122", "name": "Dockyard Road Viewpoint", "coords": [18.9650, 72.8440], "category": "scenic", "description": "View of port activities and ships.", "rating": 4.2 },
+  { "id": "m123", "name": "Reay Road Bridge", "coords": [18.9600, 72.8500], "category": "landmark", "description": "Industrial railway bridge.", "rating": 4.0 },
+  { "id": "m124", "name": "Cotton Green Area", "coords": [18.9580, 72.8520], "category": "market", "description": "Known for warehouses and trade.", "rating": 4.0 },
+  { "id": "m125", "name": "Sewri Fort", "coords": [18.9985, 72.8555], "category": "heritage", "description": "Fort known for flamingo views nearby.", "rating": 4.3 },
+
+  { "id": "m126", "name": "Sewri Flamingo Point", "coords": [19.0005, 72.8560], "category": "nature", "description": "Seasonal flamingo bird watching spot.", "rating": 4.7 },
+  { "id": "m127", "name": "BPT Garden", "coords": [18.9100, 72.8150], "category": "park", "description": "Quiet park maintained by port trust.", "rating": 4.2 },
+  { "id": "m128", "name": "Navy Nagar Colaba", "coords": [18.9010, 72.8100], "category": "residential", "description": "Well-maintained naval residential area.", "rating": 4.5 },
+  { "id": "m129", "name": "Afghan Church Road", "coords": [18.9055, 72.8152], "category": "heritage", "description": "Historic stretch near colonial structures.", "rating": 4.3 },
+  { "id": "m130", "name": "Colaba Market Lane", "coords": [18.9205, 72.8320], "category": "shopping", "description": "Bustling market with souvenirs and antiques.", "rating": 4.5 },
+
+  
+  { "id": "m131", "name": "Manori Beach", "coords": [19.1965, 72.7810], "category": "beach", "description": "Quiet beach ideal for short getaways.", "rating": 4.4 },
+  { "id": "m132", "name": "Gorai Beach", "coords": [19.2300, 72.7800], "category": "beach", "description": "Popular for resorts and beachside stays.", "rating": 4.5 },
+  { "id": "m133", "name": "Gorai Creek Ferry Point", "coords": [19.2290, 72.7900], "category": "transit", "description": "Ferry access point to Gorai village.", "rating": 4.2 },
+  { "id": "m134", "name": "Kanheri Caves", "coords": [19.2060, 72.9070], "category": "heritage", "description": "Ancient Buddhist caves inside national park.", "rating": 4.7 },
+  { "id": "m135", "name": "Tulsi Lake", "coords": [19.1960, 72.9075], "category": "nature", "description": "Freshwater lake inside SGNP.", "rating": 4.5 },
+
+  { "id": "m136", "name": "Vihar Lake", "coords": [19.1480, 72.9005], "category": "nature", "description": "Scenic lake surrounded by forest.", "rating": 4.4 },
+  { "id": "m137", "name": "Aarey Forest", "coords": [19.1555, 72.8700], "category": "nature", "description": "Green zone known as Mumbai’s lung space.", "rating": 4.6 },
+  { "id": "m138", "name": "Chhota Kashmir Park", "coords": [19.1500, 72.8735], "category": "park", "description": "Garden with boating facility.", "rating": 4.3 },
+  { "id": "m139", "name": "Film City View Point", "coords": [19.1540, 72.8820], "category": "scenic", "description": "Overlooks shooting locations.", "rating": 4.4 },
+  { "id": "m140", "name": "Jogeshwari East Market", "coords": [19.1345, 72.8610], "category": "market", "description": "Local market with daily essentials.", "rating": 4.1 },
+
+  { "id": "m141", "name": "Andheri Metro Station Hub", "coords": [19.1195, 72.8465], "category": "transit", "description": "Major metro and rail interchange.", "rating": 4.3 },
+  { "id": "m142", "name": "DN Nagar Metro Area", "coords": [19.1240, 72.8310], "category": "transit", "description": "Busy metro corridor area.", "rating": 4.2 },
+  { "id": "m143", "name": "Versova Metro Depot View", "coords": [19.1305, 72.8160], "category": "landmark", "description": "Metro infrastructure zone.", "rating": 4.1 },
+  { "id": "m144", "name": "Yari Road", "coords": [19.1330, 72.8195], "category": "residential", "description": "Popular residential and cafe area.", "rating": 4.4 },
+  { "id": "m145", "name": "Lokhandwala Back Road", "coords": [19.1325, 72.8280], "category": "scenic", "description": "Calm stretch ideal for walks.", "rating": 4.3 },
+
+  { "id": "m146", "name": "Seven Bungalows Garden", "coords": [19.1290, 72.8200], "category": "park", "description": "Local park in Andheri West.", "rating": 4.2 },
+  { "id": "m147", "name": "Oshiwara Garden", "coords": [19.1450, 72.8365], "category": "park", "description": "Green garden with jogging tracks.", "rating": 4.3 },
+  { "id": "m148", "name": "Oshiwara River View", "coords": [19.1480, 72.8350], "category": "scenic", "description": "Urban river stretch.", "rating": 4.0 },
+  { "id": "m149", "name": "Mindspace Malad", "coords": [19.1860, 72.8350], "category": "business", "description": "Corporate hub with offices and cafes.", "rating": 4.5 },
+  { "id": "m150", "name": "Infinity Mall Malad", "coords": [19.1840, 72.8340], "category": "shopping", "description": "Popular mall in western suburbs.", "rating": 4.4 },
+
+  { "id": "m151", "name": "Malad Creek Mangroves", "coords": [19.1900, 72.8200], "category": "nature", "description": "Mangrove ecosystem near creek.", "rating": 4.3 },
+  { "id": "m152", "name": "Mindspace Garden", "coords": [19.1875, 72.8365], "category": "park", "description": "Small landscaped garden.", "rating": 4.2 },
+  { "id": "m153", "name": "Kandivali Charkop Market", "coords": [19.2100, 72.8250], "category": "market", "description": "Local suburban market.", "rating": 4.1 },
+  { "id": "m154", "name": "Charkop Beach", "coords": [19.2150, 72.8000], "category": "beach", "description": "Less crowded beach stretch.", "rating": 4.2 },
+  { "id": "m155", "name": "Kandivali Sports Arena", "coords": [19.2050, 72.8400], "category": "sports", "description": "Local sports complex.", "rating": 4.3 },
+
+  { "id": "m156", "name": "Borivali National Park Gate", "coords": [19.2300, 72.9100], "category": "nature", "description": "Main entrance to SGNP.", "rating": 4.7 },
+  { "id": "m157", "name": "Borivali West Market", "coords": [19.2305, 72.8500], "category": "market", "description": "Busy shopping street.", "rating": 4.3 },
+  { "id": "m158", "name": "IC Colony Borivali", "coords": [19.2400, 72.8400], "category": "residential", "description": "Popular residential locality.", "rating": 4.4 },
+  { "id": "m159", "name": "Eksar Lake", "coords": [19.2350, 72.8700], "category": "nature", "description": "Small lake with greenery.", "rating": 4.2 },
+  { "id": "m160", "name": "Mandapeshwar Caves", "coords": [19.2470, 72.8570], "category": "heritage", "description": "Ancient rock-cut caves in Borivali.", "rating": 4.3 }
+
+
+
+  ]
+}

@@ -1,0 +1,65 @@
+.main {
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+  overflow: hidden;
+  background-color: var(--background);
+}
+
+.plannerWrapper {
+  display: flex;
+  width: 100%;
+  height: 100%;
+}
+
+.contentWrapper {
+  flex: 1;
+  display: flex;
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+}
+
+.chatContainer {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  background: var(--background);
+  position: relative;
+}
+
+.resizer {
+  width: 8px;
+  background-color: transparent;
+  cursor: col-resize;
+  position: relative;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background-color 0.2s;
+}
+
+.resizer:hover, .resizerActive {
+  background-color: rgba(47, 129, 247, 0.2);
+}
+
+.resizerHandle {
+  width: 4px;
+  height: 40px;
+  background-color: var(--glass-border);
+  border-radius: 4px;
+  transition: background-color 0.2s;
+}
+
+.resizer:hover .resizerHandle, .resizerActive .resizerHandle {
+  background-color: var(--accent);
+}
+
+.mapSidebar {
+  height: 100%;
+  background: var(--background);
+  z-index: 5;
+  position: relative;
+  overflow: hidden;
+}
